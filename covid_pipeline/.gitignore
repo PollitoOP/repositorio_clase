@@ -204,3 +204,7 @@ __marimo__/
 covid_pipeline/data/compact.csv
 covid_pipeline/data/*.xlsx
 covid_pipeline/.tmp_dagster_home*/
+
+# Datos locales y temporales
+covid_pipeline/data/*.csv
+covid_pipeline/.tmp_dagster_home*/
