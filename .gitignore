@@ -1,0 +1,4 @@
+
+# Datos locales y temporales
+covid_pipeline/data/*.csv
+covid_pipeline/.tmp_dagster_home*/
